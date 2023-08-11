@@ -1,0 +1,6 @@
+.idea/*
+java-fundamentals-assessment.iml
+**.iml
+ **.DS_Store
+target/*
+*.class
